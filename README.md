@@ -4,7 +4,7 @@
 
 ### 模型 ###
 
-### ![CZ1a](/CZ1a.png) ###
+### ![CZ1a](/Report/CZ1a.png) ###
 
 考虑单个光子与腔内原子的相互作用。哈密顿算符如下：
 $$
@@ -103,11 +103,11 @@ $$
 
 原子处在初态$|g>$态。
 
-![g_g5](/g_g5.png)
+![g_g5](/Report/g_g5.png)
 
 原子处在初态$|s>$态。
 
-![s_g5](/s_g5.png)
+![s_g5](/Report/s_g5.png)
 
 可见二者在$\omega=0$处确实有$\pi$翻转
 
@@ -135,7 +135,7 @@ $Fidelity=|WaveDot|^2$
 
 取$\kappa=10,\gamma_e=1, \gamma=0, \Delta=0$，$\omega_b=10$，入射脉冲在频域上的线宽为1，原子处在初态$\frac{1}{\sqrt{2}}(|g>+|s>)$态。
 
-![F_gs_g(1-20)_kappa1_gammae1](/F_gs_g(1-20)_kappa1_gammae1.bmp)
+![F_gs_g(1-20)_kappa1_gammae1](/Report/F_gs_g(1-20)_kappa1_gammae1.bmp)
 
 横坐标为$g$ ，纵坐标为综合保真度Fidelity。
 
@@ -145,13 +145,13 @@ $Fidelity=|WaveDot|^2$
 
 取$g=5,\gamma_e=1, \gamma=0, \Delta=0$，$\omega_b=10$，入射脉冲在频域上的线宽为1，原子处在初态$\frac{1}{\sqrt{2}}(|g>+|s>)$态。
 
-![F_gs_g10_kappa(1-10)_gammae1](/F_gs_g5_kappa(1-10)_gammae1.bmp)
+![F_gs_g10_kappa(1-10)_gammae1](/Report/F_gs_g5_kappa(1-10)_gammae1.bmp)
 
 横坐标为$\kappa$，纵坐标为综合保真度Fidelity。
 
 取$g=10,\gamma_e=1, \gamma=0, \Delta=0$，$\omega_b=10$，入射脉冲在频域上的线宽为1，原子处在初态$\frac{1}{\sqrt{2}}(|g>+|s>)$态。
 
-![F_gs_g10_kappa(1-10)_gammae1](/F_gs_g10_kappa(1-10)_gammae1.bmp)
+![F_gs_g10_kappa(1-10)_gammae1](/Report/F_gs_g10_kappa(1-10)_gammae1.bmp)
 
 横坐标为$\kappa$，纵坐标为综合保真度Fidelity。
 
@@ -159,11 +159,11 @@ $Fidelity=|WaveDot|^2$
 
 将上述三组数据的$g,\kappa,\gamma_e$全部用于计算$C=\frac{2g^2}{\gamma\kappa}$，考虑协同系数对保真度和损耗的影响。
 
-![F_C_gs](F_C_gs.bmp)
+![F_C_gs](/Report/F_C_gs.bmp)
 
-![L_C_gs](L_C_gs.bmp)
+![L_C_gs](/Report/L_C_gs.bmp)
 
-![Fp_C_gs](Fp_C_gs.bmp)
+![Fp_C_gs](/Report/Fp_C_gs.bmp)
 
 $Fidelityp=Fidelity/(1-Loss)$
 
